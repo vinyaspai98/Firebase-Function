@@ -1,3 +1,3 @@
 # Firebase-Function
 
-Termina command  'firebase serve'
+Terminal command  'firebase serve'
