@@ -1,3 +1,3 @@
 # Firebase-Function
 
-Run firebase serve
+Termina command  'firebase serve'
